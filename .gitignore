@@ -1,0 +1,4 @@
+/tests
+*.code-workspace
+/venv
+.gitignore
